@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\MulticastDelegates2\bin\Debug\net8.0\MulticastDelegates2.exe
+C:\Users\ET73\Downloads\projetos-c#\MulticastDelegates2\bin\Debug\net8.0\MulticastDelegates2.deps.json
+C:\Users\ET73\Downloads\projetos-c#\MulticastDelegates2\bin\Debug\net8.0\MulticastDelegates2.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\MulticastDelegates2\bin\Debug\net8.0\MulticastDelegates2.dll
+C:\Users\ET73\Downloads\projetos-c#\MulticastDelegates2\bin\Debug\net8.0\MulticastDelegates2.pdb
+C:\Users\ET73\Downloads\projetos-c#\MulticastDelegates2\obj\Debug\net8.0\MulticastDelegates2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\MulticastDelegates2\obj\Debug\net8.0\MulticastDelegates2.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\MulticastDelegates2\obj\Debug\net8.0\MulticastDelegates2.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\MulticastDelegates2\obj\Debug\net8.0\MulticastDelegates2.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\MulticastDelegates2\obj\Debug\net8.0\MulticastDelegates2.dll
+C:\Users\ET73\Downloads\projetos-c#\MulticastDelegates2\obj\Debug\net8.0\refint\MulticastDelegates2.dll
+C:\Users\ET73\Downloads\projetos-c#\MulticastDelegates2\obj\Debug\net8.0\MulticastDelegates2.pdb
+C:\Users\ET73\Downloads\projetos-c#\MulticastDelegates2\obj\Debug\net8.0\MulticastDelegates2.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\MulticastDelegates2\obj\Debug\net8.0\ref\MulticastDelegates2.dll
